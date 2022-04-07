@@ -1,0 +1,1 @@
+Calculadora feita em JS com prompt e case
