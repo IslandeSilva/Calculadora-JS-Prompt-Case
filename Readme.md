@@ -1,1 +1,1 @@
-Calculadora feita em JS com prompt e case
+Calculadora feita em javascript com prompt e case
